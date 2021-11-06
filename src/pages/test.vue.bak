@@ -1,0 +1,376 @@
+// <template>
+//   <div>
+//     <div class="particles">
+//       <div id="particles-js"></div>
+//     </div>
+
+//       <div class="banner">
+//       <div class="text-part">
+//         <div class="title">AcceleRaytor</div>
+//         <div class="description">
+//           A launchpad for new projects to raise capital and for the community to participate in new Solana project
+//           launches.
+//         </div>
+//       </div>
+//       <div class="image-part">
+//         <div class="decorator-text">
+//           <div class="secondary-decorator-text">AcceleRaytor deposits open: 2021-09-07 12:00 UTC</div>
+//           <div class="secondary-decorator-text">IDO & start of trading: 2021-09-14 12:00 UTC</div>
+//           <div class="decorator-link">
+//             Full details
+//             <a
+//               href="https://raydium.medium.com/grape-protocol-launching-on-acceleraytor-547f58c12937"
+//               rel="nofollow noopener noreferrer"
+//               target="_blank"
+//             >
+//               here</a
+//             >
+//           </div>
+//         </div>
+//         <!-- <img src="../assets/background/acceleraytor-placeholder.webp" /> -->
+//       </div>
+//       <!-- <div class="page-head fs-container"> -->
+// <!-- start banner Area -->
+// 			<!-- <section class="banner-area">
+// 				<div class="container">
+// 					<div class="row fullscreen align-items-center justify-content-between">
+// 						<div class="col-lg-12 banner"> -->
+// 							<!-- <video src="/personal/banner2.mp4" muted loop autoplay></video> -->
+// 							<!-- <div class="col-lg-12 col-md-12">
+// 								<img class="img-fluid" src="img/logo2.png" alt="" width="15%">
+// 							</div>
+// 							<h1>WOOF - DEX & NFT MARKETPLACE</h1>
+// 							<p>
+// 								The token for NFT creators and long-term holders.
+// 							</p>
+// 							<a href="https://dex.woofsolana.com" class="primary-btn text-uppercase">DEX</a>
+// 							<a href="#" class="primary-btn text-uppercase">NFT Marketplace</a>
+// 						</div>
+// 					</div>
+// 				</div>					
+// 			</section> -->
+// 			<!-- End banner Area -->
+
+// 			<!-- Start home-about Area -->
+// 			<!-- <section id="about" class="home-about-area pt-120 pb-50">
+// 				<div class="container">
+// 					<div class="row align-items-center justify-content-between">
+// 						<div class="col-lg-6 col-md-6 home-about-left">
+// 							<img class="img-fluid" src="img/astro.png" alt="" width="55%">
+// 						</div>
+// 						<div class="col-lg-5 col-md-6 home-about-right">
+// 							<h1 class="text-uppercase">VISION</h1>
+// 							<p>
+// 								WOOFENOMICS tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion tokens, and removing half from the supply each day.
+
+// 								In time, it was clear that the long-term holders of WOOF wanted the project to make something more of itself than a sad meme.
+
+// 								There is a space missing in Solana that many creators are looking for, and that is a native token that represents their art. Tokens with inflationary economics are not ideal to sell valuable items such as NFTs. 
+
+// 								Looking at the example of Rarible and Serum, long term holders of the token should be rewarded for being early supporters. Our initial airdrop in May 2021 for 1 million WOOF tokens was only 0.0001% of the total supply. Today, those that received the airdrop and still hold their tokens, each control 50 times that.
+
+// 								Our goal is to build a central marketplace where anyone can be a creator or a seller, and can both bid for NFTs or purchase them at a flat cost. To make it easier to buy and sell WOOF tokens, we've created a DEX on our own site that will let users trade and swap with ease.
+
+// 							</p>
+// 							<a href="#" class="primary-btn text-uppercase">View Full Details</a>
+// 						</div>
+// 					</div>
+// 				</div>	 -->
+// 			<!-- </section>
+// 			<section id="about" class="home-about-area pt-120 pb-50">
+// 				<div class="container">
+// 					<div class="row align-items-center justify-content-between">
+// 						<div class="col-lg-6 col-md-6 home-about-left">
+// 							<h1 class="text-uppercase">ABOUT</h1>
+// 							<p>
+// 								WOOFENOMICS is a community driven project that begins with a simple deflationary model, but relies on active participation by holders to influence the direction of the project and overall strategy.
+// 							</p>
+// 							<a href="https://discord.gg/QmD4jWtXT8" class="primary-btn text-uppercase">Join Discord</a>
+// 							<a href="https://twitter.com/WoofSolana" class="primary-btn text-uppercase">Join Twitter</a>
+// 						</div>
+// 						<div class="col-lg-5 col-md-6 home-about-right">
+// 							<img class="img-fluid" src="img/logo1.png" alt="" width="70%">
+// 						</div>
+// 					</div>
+// 				</div>	
+// 			</section> -->
+// 			<!-- End home-about Area -->
+
+// 			<!-- Start services Area -->
+<!-- // 			<section id="tokenomics" class="services-area section-gap">
+// 				<div class="container">
+// 		            <div class="row d-flex justify-content-center">
+// 		                <div class="menu-content  col-lg-12">
+// 		                    <div class="title text-center">
+// 		                        <h1 class="mb-10">TOKENOMICS</h1>		                        
+// 		                    </div>
+// 		                </div>
+// 		            </div>
+// 					<div class="row justify-content-center">
+// 						<div class="col-lg-6 col-md-12">
+// 							<div class="single-services">
+// 								<h4>MAXIMUM SUPPLY</h4>
+// 								<p>
+// 									17, 902, 999, 925
+// 								</p>
+// 							</div>	
+// 						</div>
+// 						<div class="col-lg-6 col-md-12">
+// 							<div class="single-services">
+// 								<h4>BURNED</h4>
+// 								<p>
+// 									982, 097, 000, 075
+// 								</p>
+// 							</div>
+// 						</div>
+// 						<div class="col-lg-6 col-md-12">
+// 							<div class="single-services">
+// 								<h4>DEFLATIONARY</h4>
+// 								<p>
+// 									Trading fees from the WOOF DEX and NFT Marketplace will go towards buyback and burn of the WOOF token and to sustain the overall maintenance of the project/community.
+// 								</p>
+// 							</div>
+// 						</div>
+// 						<div class="col-lg-6 col-md-12">
+// 							<div class="single-services">
+// 								<h4>INCENTIVES FOR HOLDERS</h4>
+// 								<p>
+// 									Reward creators by using the token of their choosing to sell their digital art. Long term holders are supported not by LP pools and yield farms with inevitable impermanent loss, but by consistent periodic burns of large portions of the token supply
+// 								</p>
+// 							</div>				
+// 						</div>														
+// 					</div>
+// 				</div>	
+// 			</section> -->
+			<!-- End services Area -->
+			
+			<!-- Start timeline Area -->
+			<!-- <section id="roadmap" class="timeline pb-120">
+// 				<div class="text-center">
+// 					<div class="menu-content pb-70">
+// 						<div class="title text-center">
+// 							<h1 class="mb-10">ROADMAP</h1> -->
+							<!-- <p>Who are in extremely love with eco friendly system.</p> -->
+						<!-- </div>
+					</div>
+// 				</div>				
+// 				  <ul>
+// 					<li>
+// 					  <div class="content">
+// 						<h4>
+// 						  <time>BURN</time>
+// 						</h4>
+// 						<p><b>Token hyperdeflation occurred by burning 1/2 of the remaining un-airdropped supply each day.</b></p>
+// 					  </div>
+// 					</li>
+// 					<li>
+// 					  <div class="content">
+// 						<h4>
+// 						  <time>MAXIMUM SUPPLY</time>
+// 						</h4>
+// 						<p><b>The maximum supply of WOOF began at 1 Trillion, an intentionally high number of tokens, but is already 1/50th of that.</b></p>
+// 					  </div>
+// 					</li>
+// 					<li>
+// 					  <div class="content">
+// 						<h4>
+// 						  <time>COMMUNITY</time>
+// 						</h4>
+// 						<p><b>Helping to grow the Solana Creator community with open NFT listings as well as both auctions and direct sales.</b></p>
+// 					  </div>
+// 					</li>
+// 				  </ul>
+// 				</section>		 -->
+	
+ 				<!-- End timeline Area -->
+
+ 			<!-- Start fact Area -->
+ 			<!-- <section class="facts-area section-gap" id="facts-area">
+// 				<div class="container">				
+// 					<div class="row">
+// 						<div class="col-lg-3 col-md-6 single-fact">
+// 							<h1 class="counter">21,000,000</h1>
+// 							<p>Market Cap</p>
+// 						</div>
+// 						<div class="col-lg-3 col-md-6 single-fact">
+// 							<h1 class="counter">19,000</h1>
+// 							<p>Holders</p>
+// 						</div>
+// 						<div class="col-lg-3 col-md-6 single-fact">
+// 							<h1 class="counter">20,000,000,000</h1>
+// 							<p>Total Distributed</p>
+// 						</div>	
+// 						<div class="col-lg-3 col-md-6 single-fact">
+// 							<h1 class="counter">5,500</h1>
+// 							<p>NFTs</p>
+// 						</div>												
+// 					</div>
+// 				</div>	
+// 			</section> -->
+// 			<!-- end fact Area -->	
+       <!-- </div>
+
+     </div>
+//   </div>
+// </template>
+
+// <style>
+// #particles-js {
+//   background: #f5f5f5;
+//   height: 100%;
+//   width: 100%;
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+// }
+
+
+// .swap {
+//   position: relative !important;
+// }
+
+// .swap-confirm-modal .ant-btn-text {
+//   background: transparent;
+//   border: none;
+// }
+// .swap-confirm-modal .title {
+//   font-size: 22px;
+//   font-weight: 500;
+//   text-align: center;
+//   margin-bottom: 8px;
+// }
+// .swap-confirm-modal .description {
+//   text-align: center;
+//   margin: 0 64px 32px;
+// }
+// .swap-confirm-modal .description-secondary {
+//   font-size: 16px;
+//   text-align: center;
+//   margin: 0 32px 16px;
+// }
+// .swap-confirm-modal .description .highlight {
+//   font-weight: bold;
+//   color: #ed4b9e;
+// }
+// .swap-confirm-modal .btn-group {
+//   display: grid;
+//   justify-items: center;
+//   gap: 4px;
+// }
+// .swap-confirm-modal .btn-group .cancel-btn {
+//   width: 156px;
+// }
+// </style>
+
+// <style lang="less" sxcoped>
+// .warning-style {
+//   font-weight: bold;
+//   color: #f0b90b;
+// }
+// .swap-btn.warning-style {
+//   font-weight: normal;
+// }
+// .error-style {
+//   font-weight: bold;
+//   color: #ed4b9e;
+// }
+// .swap-btn.error-style {
+//   font-weight: normal;
+// }
+
+// .container {
+//   max-width: 450px;
+
+//   .price-info {
+//     display: grid;
+//     grid-auto-rows: auto;
+//     grid-row-gap: 8px;
+//     row-gap: 8px;
+//     padding: 0 12px;
+//     font-size: 12px;
+//     line-height: 20px;
+//     margin-bottom: 6px;
+//     .anticon-swap {
+//       margin-left: 10px;
+//       padding: 5px;
+//       border-radius: 50%;
+//       background: #000829;
+//     }
+//     .price-base {
+//       line-height: 24px;
+//     }
+//     .fs-container {
+//       .name {
+//         opacity: 0.75;
+//       }
+//     }
+//   }
+
+//   .not-enough-sol-alert {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     gap: 8px;
+//     margin-bottom: -18px;
+//     margin-top: 4px;
+//   }
+
+//   .change-side {
+//     div {
+//       height: 32px;
+//       width: 32px;
+//       border-radius: 50%;
+//       background: #000829;
+//       cursor: pointer;
+//     }
+//   }
+
+//   .fetching-unsettled {
+//     margin: 12px;
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     color: #ffffffad;
+//     span {
+//       margin-top: 16px;
+//       text-align: center;
+//     }
+//   }
+
+//   .settle.card-body {
+//     padding: 16px 24px;
+//   }
+//   .extra {
+//     margin-top: 32px;
+//     margin-bottom: 32px;
+
+//     .settel-panel {
+//       .align-right {
+//         text-align: right;
+//       }
+//       th {
+//         font-weight: normal;
+//       }
+//       td {
+//         padding-bottom: 4px;
+//         width: 25%;
+//       }
+//       thead {
+//         font-size: 14px;
+//         tr:first-child {
+//           margin-top: 8px;
+//         }
+//       }
+//       tbody {
+//         tr:first-child {
+//           td {
+//             padding-top: 6px;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+
+// </style> -->
