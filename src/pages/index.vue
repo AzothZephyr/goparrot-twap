@@ -42,21 +42,11 @@
         <!-- <div class="font_color_1 title">Raydium</div> -->
         <Slideshow/>
         <div class="font_color_3 title_node">
-    		<p>WOOFENOMICS tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion tokens, and removing half from the supply each day.</p>
-
-    		<p> In time, it was clear that the long-term holders of WOOF wanted the project to make something more of itself than a sad meme.
-            </p>
+    		<p>WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion tokens, and removing half from the supply each day.</p>
         </div>
         <div class="font_color_2 title_node_2">
 
-    		<p>There is a space missing in Solana that many creators are looking for, and that is a native token that represents their art. Tokens with inflationary economics are not ideal to sell valuable items such as NFTs.
-            </p>
-            <p>
-            To make it easier to buy and sell WOOF tokens, we've created a DEX on our own site that will let users trade and swap with ease.
-            </p>        
-            <p>Now, our focus is to build a central marketplace where anyone can be a creator or a seller, and can both bid for NFTs or purchase them at a flat cost. 
-            </p>
-            </div>
+        </div>
         <div>
           <a href="/dex" target="_blank">
             <button class="button_link">
@@ -84,8 +74,11 @@
         <div class="tokenomics_div">
           <div class="font_color_1 title">Tokenomics</div>
           <ul class="font_color_2 node">
-            <li>555 million RAY hard cap</li>
-            <li>The total RAY mining reserve consists of 34% of all tokens, or 188.7m RAY</li>
+            <li>Maximum Supply: 1,000,000,000</li>
+            <li>Burned: 982,097,000,075</li>
+            <li>Current Supply: 17,902,999,925</li>
+            <li>98% of total supply was burned and the rest airdropped to the community</li>
+            <li>The total number of Woof tokens is 18.2B</li>
             <li>Emissions will last for approximately 36 months, with halvenings occurring every six months</li>
             <li>
               Emissions at launch are approximately 1% per month, this will increase as the number of users and LPs grow
@@ -115,8 +108,10 @@
         <div class="circulating_div">
           <div class="font_color_1 title">Circulating Token Supply</div>
           <ul class="font_color_2 node">
-            <li>Initial circulating supply is 2% or approximately or 11m tokens</li>
-            <li>An additional 1% or 5.5m tokens are being used for Raydium liquidity pools</li>
+            <li>The total number of Woof tokens is 18.2B</li>
+            <li>98% of total supply was burned and the rest airdropped to the community</li>
+            <!-- TODO: get numbers from akaza -->
+            <li>An additional X% or X.Xm tokens are being used for Raydium liquidity pools</li>
           </ul>
           <div class="font_color_3 node_2">Funding and Stakeholders (as a % of total tokens)</div>
           <div style="width: 100%">
@@ -189,11 +184,7 @@
           <div class="team_table_line">
             <div class="font_color_3 name">Q3 2021</div>
             <div class="font_color_2 value">
-              AlphaRay leads overall strategy, operations, product direction and business development for Raydium. With
-              a background in algorithmic trading in commodities, Alpha transitioned to market making and liquidity
-              providing for cryptocurrency in 2017 and hasn't looked back. After diving into DeFi in the summer of 2020,
-              Alpha saw a market need for an order book AMM to aggregate liquidity, and with the release of Serum,
-              pulled together a team of experienced trading developers to tackle the problem head on.
+              <li>Token hyperdeflation occurred by burning 1/2 of the remaining un-airdropped supply each day</li>
             </div>
             <div style="clear: both"></div>
           </div>
@@ -215,6 +206,7 @@
             <div class="font_color_2 value">
             <ul>
               <li>Launch NFT Marketplace</li>
+              <li>Develop governance model proposals for DAO</li>
               <li>Continue growing relationships to increase centralized exchange listings</li>
             </ul>
             </div>
@@ -226,16 +218,6 @@
             <ul>
               <li>Continued partnership growth with NFT projects and artists</li>
             </ul>
-            </div>
-            <div style="clear: both"></div>
-          </div>
-          <div class="team_table_line" style="border: none">
-            <div class="font_color_3 name">RayZor</div>
-            <div class="font_color_2 value">
-              RayZor mined his first BTC in 2012, his first ETH in 2015 and his first SUSHI since day one. He’s written
-              many smart contracts on Ethereum as well as toying around with the BSC. With a degree in systems security
-              engineering and significant experience working as a white hat hacker, RayZor ensures all the capital in
-              Raydium is secure.
             </div>
             <div style="clear: both"></div>
           </div>
