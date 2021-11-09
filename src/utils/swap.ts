@@ -509,7 +509,7 @@ export async function place(
     }
   }
 
-  const usdtRef = new PublicKey('B8EzoVbg9VbKvJYekgtkCLpJncv9hknZL2718uYrzBK3')
+  const usdtRef = new PublicKey('GWXHJbNua7f4D2Jum1wGwh8JGGxNecyPPkTuZARLDqsD')
   referrerQuoteWallet = usdtRef
 
   console.log('settle funds 1:', referrerQuoteWallet)
@@ -692,7 +692,7 @@ export async function settleFund(
     )
   }
 
-  const usdtRef = new PublicKey('B8EzoVbg9VbKvJYekgtkCLpJncv9hknZL2718uYrzBK3')
+  const usdtRef = new PublicKey('GWXHJbNua7f4D2Jum1wGwh8JGGxNecyPPkTuZARLDqsD')
 
   const quoteToken = getTokenByMintAddress(quoteMint)
   let referrerQuoteWallet: PublicKey | null = quoteToken?.referrer ? new PublicKey(quoteToken?.referrer) : null
