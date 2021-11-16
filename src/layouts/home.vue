@@ -20,3 +20,4 @@ export default class Home extends Vue {}
   display: flow-root;
 }
 </style>
+

@@ -10,62 +10,63 @@
     </div>
     <div class="big_div div3">
       <div class="node_div">
-        <!-- <div class="font_center">
-          <div class="data_div">
-            <div class="data_div_title font_color_3">Total Value Locked</div>
-            <div class="data_div_num">
-              ${{
-                Math.round(tvl)
-                  .toString()
-                  .replace(/\B(?=(\d{3})+(?!\d))/g, ',')
-              }}
-            </div>
+        <div class="title_div">
+          <div class="font_color_3 title_node">
+            <img src="../assets/images/1-1-woof.png" class="title_image" />
+            <p class="title_text">
+              WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion
+              tokens, and removing half from the supply each day.
+            </p>
+            <!-- <img src="../assets/images/1-1-woof.png" class="image2" /> -->
           </div>
-          <div class="data_div">
-            <div class="data_div_title font_color_3">24 Hour Volume</div>
-            <div class="data_div_num">
-              ${{
-                Math.round(volume24h)
-                  .toString()
-                  .replace(/\B(?=(\d{3})+(?!\d))/g, ',')
-              }}
+          <div class="font_color_2 title_node_2">
+            <div class="nav_buttons">
+              <!-- <div class="nav_buttons_mobile"> -->
+              <!-- This div is only displayed on mobile, in css we set to display: none otherwise -->
+              <a href="/dex" target="_blank">
+                <button class="button_link">
+                  DEX
+                  <!-- <div class="button_link_coin">▶</div> -->
+                </button>
+              </a>
+              <a href="/nft" target="_blank">
+                <button class="button_link">
+                  NFT Marketplace
+                  <!-- <div class="button_link_coin">▶</div> -->
+                </button>
+              </a>
+              <a href="/nft" target="_blank">
+                <button class="button_link">
+                  Whitebook
+                  <!-- <div class="button_link_coin">▶</div> -->
+                </button>
+              </a>
             </div>
-          </div>
-          <div class="data_div">
-            <div class="data_div_title font_color_3">RAY Price</div>
-            <div class="data_div_num">
-              ${{ (Math.round(prices.RAY * 100) / 100).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',') }}
+            <br />
+            <div class="nav_buttons">
+              <a href="https://twitter.com/woofsolana" target="_blank">
+                <button class="button_link">
+                  <img src="../assets/images/twitter.png" loading="lazy" alt="" />
+                </button>
+              </a>
+              <a href="https://twitter.com/woofsolana" target="_blank">
+                <button class="button_link">
+                  <img src="../assets/images/discord.png" loading="lazy" alt="" />
+                </button>
+              </a>
+              <a href="https://twitter.com/woofsolana" target="_blank">
+                <button class="button_link">
+                  <img src="../assets/images/cmc.png" loading="lazy" alt="" />
+                </button>
+              </a>
+              <a href="https://twitter.com/woofsolana" target="_blank">
+                <button class="button_link">
+                  <img src="../assets/images/coingecko.png" loading="lazy" alt="" />
+                </button>
+              </a>
             </div>
+            <img src="images/logo1-1-2.png" loading="lazy" alt="" class="headercontentimage" />
           </div>
-          <div style="clear: both"></div>
-        </div> -->
-        <!-- <div class="font_color_1 title">Raydium</div> -->
-        <Slideshow/>
-        <div class="font_color_3 title_node">
-    		<p>WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion tokens, and removing half from the supply each day.</p>
-        </div>
-        <div class="font_color_2 title_node_2">
-
-        </div>
-        <div>
-          <a href="/dex" target="_blank">
-            <button class="button_link">
-              DEX
-              <div class="button_link_coin">▶</div>
-            </button>
-          </a>
-          <a href="https://coinmarketcap.com/currencies/woof/" target="_blank">
-            <button class="button_link">
-              COINMARKETCAP
-              <div class="button_link_coin">▶</div>
-            </button>
-          </a>
-          <a href="https://www.coingecko.com/en/coins/woof-token" target="_blank">
-            <button class="button_link">
-              COINGECKO
-              <div class="button_link_coin">▶</div>
-            </button>
-          </a>
         </div>
       </div>
     </div>
@@ -84,6 +85,7 @@
               Emissions at launch are approximately 1% per month, this will increase as the number of users and LPs grow
               and then slowly decline according to a 36 month emissions schedule.
             </li>
+            <li>No actual dogs were burned in this process, only snuggled</li>
           </ul>
         </div>
         <div class="tokenomics_div">
@@ -142,37 +144,88 @@
     </div>
     <div class="big_div div6">
       <div class="node_div">
-        <div class="font_color_1 Allocation">Allocation Breakdown</div>
-        <div class="font_color_3 Allocation_table">
-          <div class="allocation_breakdown_table_line">
-            <div class="item font_color_1 item_title">Team (locked 1-3)</div>
-            <div class="item num item_other">20%</div>
-            <div class="item value item_other">111,000,000</div>
-          </div>
-          <div class="allocation_breakdown_table_line">
-            <div class="item font_color_1 item_title">Advisors (locked 1-3)</div>
-            <div class="item num item_other">2%</div>
-            <div class="item value item_other">11,100,000</div>
-          </div>
-          <div class="allocation_breakdown_table_line">
-            <div class="item font_color_1 item_title">Partnership & Ecosystem</div>
-            <div class="item num item_other">30%</div>
-            <div class="item value item_other">166,500,000</div>
-          </div>
-          <div class="allocation_breakdown_table_line">
-            <div class="item font_color_1 item_title">Mining Pool</div>
-            <div class="item num item_other">34%</div>
-            <div class="item value item_other">188,700,000</div>
-          </div>
-          <div class="allocation_breakdown_table_line">
-            <div class="item font_color_1 item_title">Liquidity Reserve</div>
-            <div class="item num item_other">8%</div>
-            <div class="item value item_other">44,400,000</div>
-          </div>
-          <div class="allocation_breakdown_table_line">
-            <div class="item font_color_1 item_title">Community & Seed (locked 1-3)</div>
-            <div class="item num item_other">6%</div>
-            <div class="item value item_other">33,300,000</div>
+        <div class="team-section wf-section">
+          <div class="mycontain">
+            <h2 class="heading-4">The Team</h2>
+            <ul role="list" class="team-list">
+              <li class="team-card">
+                <a href="https://twitter.com/0xAkaza" target="_blank" class="team-link-wrap w-inline-block"
+                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">akaza</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="https://twitter.com/0xAzoth" target="_blank" class="team-link-wrap w-inline-block"
+                  ><img src="images/azoth.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">0xAzoth</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">rorbro</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/hennerz.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">hennerz</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/nyk.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">nyk</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/joey.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">Joey</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">ameeno</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">taestro</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">eche</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/desperados.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">desperados</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">!shenwansanat</div>
+                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
@@ -191,12 +244,12 @@
           <div class="team_table_line">
             <div class="font_color_3 name">Q4 2021</div>
             <div class="font_color_2 value">
-            <ul>
-              <li>Launch DEX</li>
-              <li>Exchange listing on Bitrue</li>
-              <li>Grow the projects social media presence</li>
-              <li>Grow partnerships with creators in the NFT space</li>
-              <li>Further expansion and growth of partnerships with centralized exchanges</li>
+              <ul>
+                <li>Launch DEX</li>
+                <li>Exchange listing on Bitrue</li>
+                <li>Grow the projects social media presence</li>
+                <li>Grow partnerships with creators in the NFT space</li>
+                <li>Further expansion and growth of partnerships with centralized exchanges</li>
               </ul>
             </div>
             <div style="clear: both"></div>
@@ -204,20 +257,20 @@
           <div class="team_table_line">
             <div class="font_color_3 name">Q1-Q2 2022</div>
             <div class="font_color_2 value">
-            <ul>
-              <li>Launch NFT Marketplace</li>
-              <li>Develop governance model proposals for DAO</li>
-              <li>Continue growing relationships to increase centralized exchange listings</li>
-            </ul>
+              <ul>
+                <li>Launch NFT Marketplace</li>
+                <li>Develop governance model proposals for DAO</li>
+                <li>Continue growing relationships to increase centralized exchange listings</li>
+              </ul>
             </div>
             <div style="clear: both"></div>
           </div>
           <div class="team_table_line">
             <div class="font_color_3 name">Q3-Q4</div>
             <div class="font_color_2 value">
-            <ul>
-              <li>Continued partnership growth with NFT projects and artists</li>
-            </ul>
+              <ul>
+                <li>Continued partnership growth with NFT projects and artists</li>
+              </ul>
             </div>
             <div style="clear: both"></div>
           </div>
@@ -234,7 +287,7 @@ import { Vue, Component } from 'nuxt-property-decorator'
   layout: 'single',
 
   head: {
-    title: 'Raydium Info'
+    title: 'WOOF - Solanas Meme Coin'
   },
 
   async asyncData({ $accessor, $api }) {
@@ -341,15 +394,31 @@ export default class Info extends Vue {
     padding-top: 50px;
   }
 
-  .title_node {
-    font-size: 22px;
-    width: 90%;
-  }
-
   .title_node_2 {
     font-size: 18px;
-    width: 90%;
+    width: 100%;
     padding-top: 25px;
+  }
+
+  .title_node {
+    max-width: 100%;
+    min-width: 40%;
+    vertical-align: center;
+
+    .title_text {
+      max-width: 80%;
+      font-size: 22px;
+      min-width: 80%;
+      margin: 5%;
+      text-align: center;
+    }
+
+    .title_image {
+      width: 80%;
+      height: 80%;
+      margin: 5%;
+      margin-top: 10%;
+    }
   }
 
   .data_div {
@@ -433,7 +502,7 @@ export default class Info extends Vue {
     margin-top: 20px;
     border-radius: 4px;
     width: 90%;
-    text-align: left;
+    text-align: center;
 
     .button_link_coin {
       font-size: 5px;
@@ -458,6 +527,10 @@ export default class Info extends Vue {
       position: absolute;
       width: 70%;
       top: -70px;
+    }
+
+    .nav_buttons_div {
+      display: none;
     }
   }
 
@@ -570,14 +643,43 @@ export default class Info extends Vue {
   }
 
   .title_node {
-    font-size: 32px;
-    width: 60%;
+    display: flex;
+    max-width: 100%;
+    min-width: 40%;
+    height: 400px;
+
+    .title_text {
+      max-height: 50%;
+      font-size: 24px;
+      margin: 5%;
+      width: 50%;
+      float: left;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    .title_image {
+      width: 400px;
+      height: 400px;
+      float: right;
+      margin: 5%;
+      border: 15px gold solid;
+      z-index: 5;
+    }
   }
 
   .title_node_2 {
     font-size: 20px;
-    width: 50%;
-    padding-top: 25px;
+    padding-top: 50px;
+    // width: 500px;
+    // hide buttons near bottom on mobile
+    .nav_buttons {
+      // border: 8px solid green;
+      display: flex;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+    }
   }
 
   .data_div {
@@ -692,6 +794,15 @@ export default class Info extends Vue {
       width: 932px;
       height: 780.35px;
       top: -70px;
+    }
+
+    .nav_buttons_div {
+      position: absolute;
+      float: right;
+      width: 40%;
+      height: 5%;
+      right: 0;
+      top: 50px;
     }
   }
 
