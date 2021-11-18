@@ -69,7 +69,9 @@
             <li><b>Burned:</b> 982,097,000,075</li>
             <li><b>Current Supply:</b> 17,902,999,925</li>
             <li><b>The total number of Woof tokens</b> 18.2B</li>
-            <li>No actual dogs were burned in this process</li>
+            <li>
+              <b><u>No</u></b> actual dogs were burned in this process
+            </li>
           </ul>
         </div>
         <div class="tokenomics_div">
@@ -88,51 +90,51 @@
     <div class="big_div image_div div5">
       <img src="../assets/background/info_background2.svg" class="image2" />
       <div class="node_div">
-<div class="node_div">
-        <div class="font_color_1 team_title">Roadmap</div>
-        <div style="font-weight: 100">
-          <div class="team_table_line">
-            <div class="font_color_3 name">Q3 2021</div>
-            <div class="font_color_2 value">
-              <li>Token hyperdeflation occurred by burning 1/2 of the remaining un-airdropped supply each day</li>
+        <div class="node_div">
+          <div class="font_color_1 team_title">Roadmap</div>
+          <div style="font-weight: 100">
+            <div class="team_table_line">
+              <div class="font_color_3 name">Q3 2021</div>
+              <div class="font_color_2 value">
+                <li>Token hyperdeflation occurred by burning 1/2 of the remaining un-airdropped supply each day</li>
+              </div>
+              <div style="clear: both"></div>
             </div>
-            <div style="clear: both"></div>
-          </div>
-          <div class="team_table_line">
-            <div class="font_color_3 name">Q4 2021</div>
-            <div class="font_color_2 value">
-              <ul>
-                <li>Launch DEX</li>
-                <li>Exchange listing on Bitrue</li>
-                <li>Grow the projects social media presence</li>
-                <li>Grow partnerships with creators in the NFT space</li>
-                <li>Further expansion and growth of partnerships with centralized exchanges</li>
-              </ul>
+            <div class="team_table_line">
+              <div class="font_color_3 name">Q4 2021</div>
+              <div class="font_color_2 value">
+                <ul>
+                  <li>Launch DEX</li>
+                  <li>Exchange listing on Bitrue</li>
+                  <li>Grow the projects social media presence</li>
+                  <li>Grow partnerships with creators in the NFT space</li>
+                  <li>Further expansion and growth of partnerships with centralized exchanges</li>
+                </ul>
+              </div>
+              <div style="clear: both"></div>
             </div>
-            <div style="clear: both"></div>
-          </div>
-          <div class="team_table_line">
-            <div class="font_color_3 name">Q1-Q2 2022</div>
-            <div class="font_color_2 value">
-              <ul>
-                <li>Launch NFT Marketplace</li>
-                <li>Develop governance model proposals for DAO</li>
-                <li>Continue growing relationships to increase centralized exchange listings</li>
-              </ul>
+            <div class="team_table_line">
+              <div class="font_color_3 name">Q1-Q2 2022</div>
+              <div class="font_color_2 value">
+                <ul>
+                  <li>Launch NFT Marketplace</li>
+                  <li>Develop governance model proposals for DAO</li>
+                  <li>Continue growing relationships to increase centralized exchange listings</li>
+                </ul>
+              </div>
+              <div style="clear: both"></div>
             </div>
-            <div style="clear: both"></div>
-          </div>
-          <div class="team_table_line">
-            <div class="font_color_3 name">Q3-Q4</div>
-            <div class="font_color_2 value">
-              <ul>
-                <li>Continued partnership growth with NFT projects and artists</li>
-              </ul>
+            <div class="team_table_line">
+              <div class="font_color_3 name">Q3-Q4</div>
+              <div class="font_color_2 value">
+                <ul>
+                  <li>Continued partnership growth with NFT projects and artists</li>
+                </ul>
+              </div>
+              <div style="clear: both"></div>
             </div>
-            <div style="clear: both"></div>
           </div>
         </div>
-      </div>
         <div style="clear: both"></div>
       </div>
     </div>
@@ -151,12 +153,12 @@
               <li class="team-card">
                 <a href="https://twitter.com/0xAzoth" target="_blank" class="team-link-wrap w-inline-block"
                   ><img src="../assets/images/azoth.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">0xAzoth</div>
+                  <div class="team-name">Azoth</div>
                 </a>
               </li>
               <li class="team-card">
                 <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  ><img src="../assets/images/rorbro.png" loading="lazy" width="89" alt="" class="team-image" />
                   <div class="team-name">rorbro</div>
                 </a>
               </li>
@@ -180,33 +182,25 @@
               </li>
               <li class="team-card">
                 <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  ><img src="../assets/images/ameeno.png" loading="lazy" width="89" alt="" class="team-image" />
                   <div class="team-name">ameeno</div>
                 </a>
               </li>
               <li class="team-card">
                 <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  ><img src="../assets/images/taestro.png" loading="lazy" width="89" alt="" class="team-image" />
                   <div class="team-name">taestro</div>
                 </a>
               </li>
               <li class="team-card">
                 <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">eche</div>
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="../assets/images/desperados.png" loading="lazy" width="89" alt="" class="team-image" />
+                  ><img src="../assets/images/desperad0s.png" loading="lazy" width="89" alt="" class="team-image" />
                   <div class="team-name">desperados</div>
                 </a>
               </li>
-              <!-- <li class="team-card" style="visibility:hidden;">
-              </li> -->
               <li class="team-card">
                 <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  ><img src="../assets/images/shenwansanat.png" loading="lazy" width="89" alt="" class="team-image" />
                   <div class="team-name">shenwansanat</div>
                 </a>
               </li>
@@ -218,12 +212,12 @@
     <div class="big_div div7">
       <div class="font-color-3 discord_invite">
         <h1 class="discord_invite">Join the community on discord!</h1>
-              <a href="https://twitter.com/woofsolana" target="_parent">
-                <button class="button_link">
-                  <img src="../assets/images/discord.png" loading="lazy" alt="" />
-                </button>
-              </a>
-        </div>
+        <a href="https://twitter.com/woofsolana" target="_parent">
+          <button class="button_link">
+            <img src="../assets/images/discord.png" loading="lazy" alt="" />
+          </button>
+        </a>
+      </div>
     </div>
   </div>
 </template>
@@ -533,7 +527,7 @@ export default class Info extends Vue {
     }
   }
 
-    .team-list {
+  .team-list {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -586,8 +580,6 @@ export default class Info extends Vue {
     background-image: linear-gradient(180deg, #131e39a2, rgba(128, 128, 255, 0.185) 90%);
   }
 
-
-
   .team-card.social-button {
     width: 350px;
     height: auto;
@@ -605,8 +597,8 @@ export default class Info extends Vue {
 
   .team-image {
     margin-bottom: 1rem;
-    -webkit-transition: all 200ms cubic-bezier(.215, .61, .355, 1);
-    transition: all 200ms cubic-bezier(.215, .61, .355, 1);
+    -webkit-transition: all 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
     display: flex;
     width: 80%;
     margin-right: auto;
@@ -630,12 +622,13 @@ export default class Info extends Vue {
     text-align: center;
   }
 
-  .discord_invite{
+  .discord_invite {
     color: #fff;
     text-align: center;
     margin-right: auto;
     margin-left: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
     height: 80%;
     width: 80%;
   }
@@ -918,107 +911,108 @@ export default class Info extends Vue {
   }
 
   .team-list {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  list-style-type: none;
-}
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    list-style-type: none;
+  }
 
-.team-card {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 25%;
-  margin-right: 1rem;
-  margin-bottom: 2rem;
-  margin-left: 1rem;
-  padding: 0.25rem 0.125rem 2rem;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  border: 1px none #000;
-  background-color: #271f30;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(90%, #271f30));
-  background-image: linear-gradient(180deg, #131e39a2, rgba(128, 128, 255, 0.185) 90%);
-}
+  .team-card {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 25%;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    padding: 0.25rem 0.125rem 2rem;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px none #000;
+    background-color: #271f30;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(90%, #271f30));
+    background-image: linear-gradient(180deg, #131e39a2, rgba(128, 128, 255, 0.185) 90%);
+  }
 
-.team-card.social-button {
-  width: 350px;
-  height: auto;
-  margin-top: 60px;
-  margin-right: auto;
-  margin-left: auto;
-  color: #fff;
-  font-weight: 700;
-  text-decoration: none;
-}
+  .team-card.social-button {
+    width: 350px;
+    height: auto;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+  }
 
-.team-card.buy {
-  width: 33%;
-}
+  .team-card.buy {
+    width: 33%;
+  }
 
-.team-image {
-  margin-bottom: 1rem;
-  -webkit-transition: all 200ms cubic-bezier(.215, .61, .355, 1);
-  transition: all 200ms cubic-bezier(.215, .61, .355, 1);
-  display: flex;
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: 20px;
-  height: 80%;
-}
+  .team-image {
+    margin-bottom: 1rem;
+    -webkit-transition: all 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
+    display: flex;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    height: 80%;
+  }
 
-.team-image:hover {
-  -webkit-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-}
+  .team-image:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
 
-.team-name {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  color: #fff;
-  font-size: 24px;
-  line-height: 48px;
-  font-weight: 500;
-  text-align: center;
-}
+  .team-name {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #fff;
+    font-size: 24px;
+    line-height: 48px;
+    font-weight: 500;
+    text-align: center;
+  }
 
-.team-link {
-  margin-top: 1rem;
-  text-align: center;
-}
+  .team-link {
+    margin-top: 1rem;
+    text-align: center;
+  }
 
-.discord_invite{
-  color: #fff;
-  text-align: center;
-}
+  .discord_invite {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+  }
 }
 </style>
