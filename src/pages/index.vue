@@ -12,15 +12,15 @@
       <div class="node_div">
         <div class="title_div">
           <div class="font_color_3 title_node">
-            <img src="../assets/images/1-1-woof.png" class="title_image" />
+            <img src="../assets/images/logo1-1-2.png" class="title_image" />
             <p class="title_text">
               WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion
               tokens, and removing half from the supply each day.
             </p>
           </div>
           <div class="font_color_2 title_node_2">
+            <!-- This div is only displayed on mobile, in css we set to display: none otherwise -->
             <div class="nav_buttons">
-              <!-- This div is only displayed on mobile, in css we set to display: none otherwise -->
               <a href="/dex" class="button" target="_parent">
                 <button class="button_link">DEX</button>
               </a>
@@ -70,31 +70,20 @@
             <li><b>Burned:</b> 982,097,000,075</li>
             <li><b>Current Supply:</b> 17,902,999,925</li>
             <li><b>The total number of Woof tokens</b> 18.2B</li>
-            <!-- <li>Emissions will last for approximately 36 months, with halvenings occurring every six months</li>
-            <li>
-              Emissions at launch are approximately 1% per month, this will increase as the number of users and LPs grow
-              and then slowly decline according to a 36 month emissions schedule.
-            </li>
-            <li>No actual dogs were burned in this process, only snuggled</li> -->
+            <li>No actual dogs were burned in this process</li>
           </ul>
         </div>
         <div class="tokenomics_div">
-          <!-- <div class="font_color_1 title">Locked Token Distribution</div> -->
-          <!-- <ul class="font_color_2 node">
-            <li>
-              Team, advisors and seed funding tokens (25.9% of total) are locked with a 1 year cliff and unlock linearly
-              after that for the following 24 months.
-            </li>
-            <li>
-              Community Bonfida pool sale tokens, 1.1% of total, have a 1 year lock after which they will be fully
-              unlocked.
-            </li>
-          </ul> -->
-          <div>
-            <img src="../assets/images/costum-doge-p-500.png" loading="lazy" alt="" />
-          </div>
+          <img
+            src="../assets/images/1-1-woof.png"
+            loading="lazy"
+            alt=""
+            height="400px"
+            width="400px"
+            class="tokenomics_image"
+          />
         </div>
-        <!-- <div style="clear: both"></div> -->
+        <div style="clear: both"></div>
       </div>
     </div>
     <div class="big_div image_div div5">
@@ -441,6 +430,15 @@ export default class Info extends Vue {
       font-size: 18px;
       line-height: 1.4;
     }
+
+    .tokenomics_image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+      padding-top: 100px;
+      // padding-bottom: 20px;
+    }
   }
 
   .circulating_div {
@@ -652,7 +650,7 @@ export default class Info extends Vue {
       height: 400px;
       float: right;
       margin: 5%;
-      border: 15px gold solid;
+      // border: 15px gold solid;
       z-index: 5;
     }
   }
@@ -660,10 +658,8 @@ export default class Info extends Vue {
   .title_node_2 {
     font-size: 20px;
     padding-top: 50px;
-    // width: 500px;
-    // hide buttons near bottom on mobile
+
     .nav_buttons {
-      // border: 8px solid green;
       display: flex;
       width: 100%;
       align-items: center;
@@ -704,6 +700,15 @@ export default class Info extends Vue {
       font-size: 20px;
       width: 90%;
       line-height: 1.5;
+    }
+
+    .tokenomics_image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      // width: 40%;
+      height: 100%;
+      padding-top: 120px;
     }
   }
 
