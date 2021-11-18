@@ -54,7 +54,6 @@
                 </button>
               </a>
             </div>
-            <img src="images/logo1-1-2.png" loading="lazy" alt="" class="headercontentimage" />
           </div>
         </div>
       </div>
@@ -89,126 +88,7 @@
     <div class="big_div image_div div5">
       <img src="../assets/background/info_background2.svg" class="image2" />
       <div class="node_div">
-        <!-- <div class="circulating_div">
-          <div class="font_color_1 title">Friends:</div>
-          <ul class="font_color_2 node"></ul>
-          <div class="font_color_3 node_2">Funding and Stakeholders (as a % of total tokens)</div>
-          <div style="width: 100%">
-            <div class="funding_and_stakeholders_table_line">
-              <div class="font_color_1 value">Burned supply</div>
-              <div class="font_color_3 value" style="text-align: right">98%</div>
-            </div>
-            <div class="funding_and_stakeholders_table_line">
-              <div class="font_color_1 value">Liquidity</div>
-              <div class="font_color_3 value" style="text-align: right">3.0%</div>
-            </div>
-            <div class="funding_and_stakeholders_table_line">
-              <div class="font_color_1 value">EcoSerum</div>
-              <div class="font_color_3 value" style="text-align: right">1.0%</div>
-            </div>
-            <div class="funding_and_stakeholders_table_line">
-              <div class="font_color_1 value">Community Bonfida Pools</div>
-              <div class="font_color_3 value" style="text-align: right">1.1%</div>
-            </div>
-            <div class="funding_and_stakeholders_table_line">
-              <div class="font_color_1 value">Solana Foundation</div>
-              <div class="font_color_3 value" style="text-align: right">0.4%</div>
-            </div>
-          </div>
-        </div> -->
-        <div style="clear: both"></div>
-      </div>
-    </div>
-    <div class="big_div div6">
-      <div class="node_div">
-        <div class="team-section wf-section">
-          <div class="mycontain">
-            <h2 class="heading-4">The Team</h2>
-            <ul role="list" class="team-list">
-              <li class="team-card">
-                <a href="https://twitter.com/0xAkaza" target="_blank" class="team-link-wrap w-inline-block"
-                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">akaza</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="https://twitter.com/0xAzoth" target="_blank" class="team-link-wrap w-inline-block"
-                  ><img src="images/azoth.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">0xAzoth</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">rorbro</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/hennerz.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">hennerz</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/nyk.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">nyk</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/joey.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">Joey</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">ameeno</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">taestro</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">eche</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/desperados.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">desperados</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-              <li class="team-card">
-                <a href="#" class="team-link-wrap w-inline-block"
-                  ><img src="images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
-                  <div class="team-name">!shenwansanat</div>
-                  <img src="images/image-26.png" loading="lazy" alt="" class="team-link" />
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="big_div div7">
-      <div class="node_div">
+<div class="node_div">
         <div class="font_color_1 team_title">Roadmap</div>
         <div style="font-weight: 100">
           <div class="team_table_line">
@@ -253,6 +133,97 @@
           </div>
         </div>
       </div>
+        <div style="clear: both"></div>
+      </div>
+    </div>
+    <div class="big_div div6">
+      <div class="node_div">
+        <div class="team-section wf-section">
+          <div class="mycontain">
+            <h2 class="discord_invite">The Team</h2>
+            <ul role="list" class="team-list">
+              <li class="team-card">
+                <a href="https://twitter.com/0xAkaza" target="_blank" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">akaza</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="https://twitter.com/0xAzoth" target="_blank" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/azoth.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">0xAzoth</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">rorbro</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/hennerz.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">hennerz</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/nyk.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">nyk</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/joey.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">Joey</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">ameeno</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">taestro</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">eche</div>
+                </a>
+              </li>
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/desperados.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">desperados</div>
+                </a>
+              </li>
+              <!-- <li class="team-card" style="visibility:hidden;">
+              </li> -->
+              <li class="team-card">
+                <a href="#" class="team-link-wrap w-inline-block"
+                  ><img src="../assets/images/akaza.png" loading="lazy" width="89" alt="" class="team-image" />
+                  <div class="team-name">shenwansanat</div>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="big_div div7">
+      <div class="font-color-3 discord_invite">
+        <h1 class="discord_invite">Join the community on discord!</h1>
+              <a href="https://twitter.com/woofsolana" target="_parent">
+                <button class="button_link">
+                  <img src="../assets/images/discord.png" loading="lazy" alt="" />
+                </button>
+              </a>
+        </div>
     </div>
   </div>
 </template>
@@ -561,6 +532,111 @@ export default class Info extends Vue {
       font-size: 16px;
     }
   }
+
+    .team-list {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    list-style-type: none;
+    margin-top: 20px;
+    height: 80%;
+  }
+
+  .team-card {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 60%;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    padding: 0.25rem 0.125rem 2rem;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px none #000;
+    background-color: #271f30;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(91%, #271f30));
+    background-image: linear-gradient(180deg, #5ac4be, #271f30 60%);
+  }
+
+  .team-card.social-button {
+    width: 350px;
+    height: auto;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .team-card.buy {
+    width: 33%;
+  }
+
+  .team-image {
+    margin-bottom: 1rem;
+    -webkit-transition: all 200ms cubic-bezier(.215, .61, .355, 1);
+    transition: all 200ms cubic-bezier(.215, .61, .355, 1);
+    display: flex;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    height: 80%;
+  }
+
+  .team-name {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #fff;
+    font-size: 24px;
+    line-height: 48px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .team-link {
+    margin-top: 1rem;
+    text-align: center;
+  }
+
+  .discord_invite{
+    color: #fff;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    height: 80%;
+    width: 80%;
+  }
 }
 
 .pc {
@@ -639,9 +715,7 @@ export default class Info extends Vue {
       font-size: 24px;
       margin: 15%;
       width: 50%;
-      // float: left;
       text-align: center;
-      // vertical-align: middle;
       display: block;
       margin-left: auto;
       margin-right: auto;
@@ -840,5 +914,109 @@ export default class Info extends Vue {
       width: 60%;
     }
   }
+
+  .team-list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.team-card {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  margin-right: 1rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+  padding: 0.25rem 0.125rem 2rem;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px none #000;
+  background-color: #271f30;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(91%, #271f30));
+  background-image: linear-gradient(180deg, #5ac4be, #271f30 60%);
+}
+
+.team-card.social-button {
+  width: 350px;
+  height: auto;
+  margin-top: 60px;
+  margin-right: auto;
+  margin-left: auto;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.team-card.buy {
+  width: 33%;
+}
+
+.team-image {
+  margin-bottom: 1rem;
+  -webkit-transition: all 200ms cubic-bezier(.215, .61, .355, 1);
+  transition: all 200ms cubic-bezier(.215, .61, .355, 1);
+  display: flex;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  height: 80%;
+}
+
+.team-image:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.team-name {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #fff;
+  font-size: 24px;
+  line-height: 48px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.team-link {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.discord_invite{
+  color: #fff;
+  text-align: center;
+}
 }
 </style>
