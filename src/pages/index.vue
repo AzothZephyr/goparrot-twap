@@ -582,9 +582,11 @@ export default class Info extends Vue {
     align-items: center;
     border: 1px none #000;
     background-color: #271f30;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(91%, #271f30));
-    background-image: linear-gradient(180deg, #5ac4be, #271f30 60%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(90%, #271f30));
+    background-image: linear-gradient(180deg, #131e39a2, rgba(128, 128, 255, 0.185) 90%);
   }
+
+
 
   .team-card.social-button {
     width: 350px;
@@ -962,8 +964,8 @@ export default class Info extends Vue {
   align-items: center;
   border: 1px none #000;
   background-color: #271f30;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(91%, #271f30));
-  background-image: linear-gradient(180deg, #5ac4be, #271f30 60%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#69d9e4), color-stop(90%, #271f30));
+  background-image: linear-gradient(180deg, #131e39a2, rgba(128, 128, 255, 0.185) 90%);
 }
 
 .team-card.social-button {
