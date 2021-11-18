@@ -75,7 +75,7 @@
         </div>
         <div class="tokenomics_div">
           <img
-            src="../assets/images/1-1-woof.png"
+            src="../assets/images/costum-doge.png"
             loading="lazy"
             alt=""
             height="400px"
@@ -435,9 +435,9 @@ export default class Info extends Vue {
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 40%;
-      padding-top: 100px;
-      // padding-bottom: 20px;
+      width: 80%;
+      height: 80%;
+      margin-top: 10%;
     }
   }
 
@@ -636,13 +636,15 @@ export default class Info extends Vue {
     height: 400px;
 
     .title_text {
-      max-height: 50%;
       font-size: 24px;
-      margin: 5%;
+      margin: 15%;
       width: 50%;
-      float: left;
+      // float: left;
       text-align: center;
-      vertical-align: middle;
+      // vertical-align: middle;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .title_image {
