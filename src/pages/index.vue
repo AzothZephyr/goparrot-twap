@@ -17,44 +17,33 @@
               WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion
               tokens, and removing half from the supply each day.
             </p>
-            <!-- <img src="../assets/images/1-1-woof.png" class="image2" /> -->
           </div>
           <div class="font_color_2 title_node_2">
             <div class="nav_buttons">
-              <!-- <div class="nav_buttons_mobile"> -->
               <!-- This div is only displayed on mobile, in css we set to display: none otherwise -->
-              <a href="/dex" target="_blank">
-                <button class="button_link">
-                  DEX
-                  <!-- <div class="button_link_coin">▶</div> -->
-                </button>
+              <a href="/dex" class="button" target="_parent">
+                <button class="button_link">DEX</button>
               </a>
-              <a href="/nft" target="_blank">
-                <button class="button_link">
-                  NFT Marketplace
-                  <!-- <div class="button_link_coin">▶</div> -->
-                </button>
+              <a href="/nft" target="_parent">
+                <button class="button_link">NFT Marketplace</button>
               </a>
-              <a href="/nft" target="_blank">
-                <button class="button_link">
-                  Whitebook
-                  <!-- <div class="button_link_coin">▶</div> -->
-                </button>
+              <a href="/nft" target="_parent">
+                <button class="button_link">Whitebook</button>
               </a>
             </div>
             <br />
             <div class="nav_buttons">
-              <a href="https://twitter.com/woofsolana" target="_blank">
+              <a href="https://twitter.com/woofsolana" target="_parent">
                 <button class="button_link">
                   <img src="../assets/images/twitter.png" loading="lazy" alt="" />
                 </button>
               </a>
-              <a href="https://twitter.com/woofsolana" target="_blank">
+              <a href="https://twitter.com/woofsolana" target="_parent">
                 <button class="button_link">
                   <img src="../assets/images/discord.png" loading="lazy" alt="" />
                 </button>
               </a>
-              <a href="https://twitter.com/woofsolana" target="_blank">
+              <a href="https://twitter.com/woofsolana" target="_parent">
                 <button class="button_link">
                   <img src="../assets/images/cmc.png" loading="lazy" alt="" />
                 </button>
@@ -75,22 +64,23 @@
         <div class="tokenomics_div">
           <div class="font_color_1 title">Tokenomics</div>
           <ul class="font_color_2 node">
-            <li>Maximum Supply: 1,000,000,000</li>
-            <li>Burned: 982,097,000,075</li>
-            <li>Current Supply: 17,902,999,925</li>
-            <li>98% of total supply was burned and the rest airdropped to the community</li>
-            <li>The total number of Woof tokens is 18.2B</li>
-            <li>Emissions will last for approximately 36 months, with halvenings occurring every six months</li>
+            <p>98% of total supply of one trillion was burned. The rest was airdropped to the community.</p>
+
+            <li><b>Maximum Supply:</b> 1,000,000,000,000</li>
+            <li><b>Burned:</b> 982,097,000,075</li>
+            <li><b>Current Supply:</b> 17,902,999,925</li>
+            <li><b>The total number of Woof tokens</b> 18.2B</li>
+            <!-- <li>Emissions will last for approximately 36 months, with halvenings occurring every six months</li>
             <li>
               Emissions at launch are approximately 1% per month, this will increase as the number of users and LPs grow
               and then slowly decline according to a 36 month emissions schedule.
             </li>
-            <li>No actual dogs were burned in this process, only snuggled</li>
+            <li>No actual dogs were burned in this process, only snuggled</li> -->
           </ul>
         </div>
         <div class="tokenomics_div">
-          <div class="font_color_1 title">Locked Token Distribution</div>
-          <ul class="font_color_2 node">
+          <!-- <div class="font_color_1 title">Locked Token Distribution</div> -->
+          <!-- <ul class="font_color_2 node">
             <li>
               Team, advisors and seed funding tokens (25.9% of total) are locked with a 1 year cliff and unlock linearly
               after that for the following 24 months.
@@ -99,27 +89,25 @@
               Community Bonfida pool sale tokens, 1.1% of total, have a 1 year lock after which they will be fully
               unlocked.
             </li>
-          </ul>
+          </ul> -->
+          <div>
+            <img src="../assets/images/costum-doge-p-500.png" loading="lazy" alt="" />
+          </div>
         </div>
-        <div style="clear: both"></div>
+        <!-- <div style="clear: both"></div> -->
       </div>
     </div>
     <div class="big_div image_div div5">
       <img src="../assets/background/info_background2.svg" class="image2" />
       <div class="node_div">
-        <div class="circulating_div">
-          <div class="font_color_1 title">Circulating Token Supply</div>
-          <ul class="font_color_2 node">
-            <li>The total number of Woof tokens is 18.2B</li>
-            <li>98% of total supply was burned and the rest airdropped to the community</li>
-            <!-- TODO: get numbers from akaza -->
-            <li>An additional X% or X.Xm tokens are being used for Raydium liquidity pools</li>
-          </ul>
+        <!-- <div class="circulating_div">
+          <div class="font_color_1 title">Friends:</div>
+          <ul class="font_color_2 node"></ul>
           <div class="font_color_3 node_2">Funding and Stakeholders (as a % of total tokens)</div>
           <div style="width: 100%">
             <div class="funding_and_stakeholders_table_line">
-              <div class="font_color_1 value">Seed Funding</div>
-              <div class="font_color_3 value" style="text-align: right">3.9%</div>
+              <div class="font_color_1 value">Burned supply</div>
+              <div class="font_color_3 value" style="text-align: right">98%</div>
             </div>
             <div class="funding_and_stakeholders_table_line">
               <div class="font_color_1 value">Liquidity</div>
@@ -138,7 +126,7 @@
               <div class="font_color_3 value" style="text-align: right">0.4%</div>
             </div>
           </div>
-        </div>
+        </div> -->
         <div style="clear: both"></div>
       </div>
     </div>
@@ -441,6 +429,7 @@ export default class Info extends Vue {
   }
 
   .tokenomics_div {
+    height: 100%;
     width: 100%;
 
     .title {
